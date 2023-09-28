@@ -1,4 +1,4 @@
-package com.ztoais.dailycoding.easy
+package com.ztoais.dailycoding.algoexpert.easy
 /*
 Two Number Sum
 Write a function that takes in a non-empty array of distinct integers and an integer representing a target sum. If any
